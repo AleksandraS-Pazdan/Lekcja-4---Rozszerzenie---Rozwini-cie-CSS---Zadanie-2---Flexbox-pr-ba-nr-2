@@ -1,0 +1,17 @@
+.navigation {
+    color: white;
+    background-color: #2b2b2b;
+    height: 70px;
+    vertical-align: middle;
+}
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style: none;
+}
